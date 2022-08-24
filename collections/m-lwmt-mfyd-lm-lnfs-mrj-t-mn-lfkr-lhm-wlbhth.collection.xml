@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="ar">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="ar" authors="Mark Pettinelli">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11162</md:content-id>
-    <md:title>معلومات مفيدة علم النفس (مراجعات من الأفكار الهامة والبحث</md:title>
+    <md:title>&#x645;&#x639;&#x644;&#x648;&#x645;&#x627;&#x62A; &#x645;&#x641;&#x64A;&#x62F;&#x629; &#x639;&#x644;&#x645; &#x627;&#x644;&#x646;&#x641;&#x633; (&#x645;&#x631;&#x627;&#x62C;&#x639;&#x627;&#x62A; &#x645;&#x646; &#x627;&#x644;&#x623;&#x641;&#x643;&#x627;&#x631; &#x627;&#x644;&#x647;&#x627;&#x645;&#x629; &#x648;&#x627;&#x644;&#x628;&#x62D;&#x62B;</md:title>
     <md:language>ar</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>0cd3339c-2f26-4cf7-bd87-c12a64213aa8</md:uuid>
-<md:slug>m-lwmt-mfyd-lm-lnfs-mrj-t-mn-lfkr-lhm-wlbhth</md:slug>
-</metadata>
+    <md:slug>m-lwmt-mfyd-lm-lnfs-mrj-t-mn-lfkr-lhm-wlbhth</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m33314"/>
     <col:module document="m33315"/>
