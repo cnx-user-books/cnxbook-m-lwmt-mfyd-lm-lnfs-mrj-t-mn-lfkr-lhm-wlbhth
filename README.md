@@ -2,9 +2,9 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
 
-_معلومات مفيدة علم النفس (مراجعات من الأفكار الهامة والبحث_ is a textbook published by [OpenStax](https://openstax.org/), a non profit organization that is part of [Rice University](https://www.rice.edu/).
+_معلومات مفيدة علم النفس (مراجعات من الأفكار الهامة والبحث_ is a book that was published on [cnx.org](https://cnx.org/).
 
-The book can be viewed [online](https://github.com/cnx-user-books/cnxbook-m-lwmt-mfyd-lm-lnfs-mrj-t-mn-lfkr-lhm-wlbhth/releases/latest), where you can also see a list of contributors.
+An ebook can be downloaded [here](https://github.com/cnx-user-books/cnxbook-m-lwmt-mfyd-lm-lnfs-mrj-t-mn-lfkr-lhm-wlbhth/releases/latest), and the book can be viewed online [here](https://github.com/cnx-user-books/cnxbook-m-lwmt-mfyd-lm-lnfs-mrj-t-mn-lfkr-lhm-wlbhth/releases/latest).
 
 ## License
 This book is available under the [Creative Commons Attribution License](./LICENSE) license.
